@@ -8,3 +8,4 @@ $return = curl_exec($ch);
 
 header('Content-type: application/json');
 print $return;
+?>
